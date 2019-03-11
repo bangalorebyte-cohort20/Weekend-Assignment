@@ -1,5 +1,3 @@
-# Weekend-Assignment
-
 # Weekend-Assignment 
 MVC  Using the OpenWeatherMap API for 5 days (https://openweathermap.org/forecast5) 
 create an MVC based program that allows a user to enter the location that he or she will be travelling to and explore various weather attributes in that area, and for that specific date.   
