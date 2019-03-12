@@ -71,9 +71,9 @@ http://dev.markitondemand.com/MODApis/Api/v2/Quote/json?symbol=MSFT
 * Create a superuser who can see a leaderboard that displays the top ten users by portfolio earnings. 
 
 
-## Webscraping Assignments
+# Webscraping Assignments
 
-# Introduction-to-WebScraping
+## Introduction-to-WebScraping
 
 **Challenge #1:**
 
@@ -100,7 +100,7 @@ They are in the image below. Please use the column names given in the  image and
 ![alt text](https://github.com/bangalorebyte-cohort7/Introduction-to-WebScraping/blob/master/Screen%20Shot%202018-01-16%20at%204.41.18%20pm.png)
 
 
-# Introduction-to-WebScraping Using Selenium
+## Introduction-to-WebScraping Using Selenium
 Selenium, API's
 
 For today's assignment, you must write a program using selenium which scrapes the first 2 pages of the search result of a keyword search on Amazon. For, example, if the keyword "books" was entered then the first two pages of the search results must be scraped.
