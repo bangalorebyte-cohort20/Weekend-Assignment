@@ -77,7 +77,7 @@ http://dev.markitondemand.com/MODApis/Api/v2/Quote/json?symbol=MSFT
 
 **Challenge #1:**
 
-Go to http://www.boxofficemojo.com/studio/, for each year scrape the table and collect all tables and write them to a single csv file. 
+Go to http://www.boxofficemojo.com/yearly/, for each year scrape the table and collect all tables and write them to a single csv file. 
 
 **Challenge #2:**
 
