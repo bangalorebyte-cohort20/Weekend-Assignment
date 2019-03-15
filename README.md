@@ -108,3 +108,23 @@ For today's assignment, you must write a program using selenium which scrapes th
 In each of the two pages, I want you to scrape 3 elements from each item - Listing Name, Price and Ratings. These three elements should then be written to a CSV file with three columns.
 
 I should be able to enter the keyword in the terminal (hint: use input()).
+
+
+---
+# UI Assignments for Week 18th March to 22nd March
+
+HTML Assignment - Create a Simple html layout as shown in the image with basic html tags.
+![alt text](https://github.com/bangalorebyte-cohort7/Introduction-to-WebScraping/blob/master/Screen%20Shot%202018-01-16%20at%204.41.18%20pm.png)
+
+CSS Assignments - Create a Simple CSS Layout as shown in the image using CSS Selectors
+![alt text](https://github.com/bangalorebyte-cohort7/Introduction-to-WebScraping/blob/master/Screen%20Shot%202018-01-16%20at%204.41.18%20pm.png)
+
+Bootstrap Assignments - Create a Simple Bootstrap layout as shown in the image using Bootstrap classes. 
+![alt text](https://github.com/bangalorebyte-cohort7/Introduction-to-WebScraping/blob/master/Screen%20Shot%202018-01-16%20at%204.41.18%20pm.png)
+
+---
+
+
+
+
+
