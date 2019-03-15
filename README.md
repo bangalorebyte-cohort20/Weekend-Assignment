@@ -116,8 +116,12 @@ I should be able to enter the keyword in the terminal (hint: use input()).
 HTML Assignment - Create a Simple html layout as shown in the image with basic html tags.
 ![alt text](https://github.com/bangalorebyte-cohort20/Weekend-Assignment/blob/master/assingments/html%20assignment.png)
 
+***
+
 CSS Assignments - Create a Simple CSS Layout as shown in the image using CSS Selectors
 ![alt text](https://github.com/bangalorebyte-cohort20/Weekend-Assignment/blob/master/assingments/css%20assignment.png)
+
+***
 
 Bootstrap Assignments - Create a Simple Bootstrap layout as shown in the image using Bootstrap classes. 
 ![alt text](https://github.com/bangalorebyte-cohort20/Weekend-Assignment/blob/master/assingments/bootstrap%20assignment.png)
