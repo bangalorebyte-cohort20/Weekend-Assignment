@@ -128,6 +128,14 @@ Bootstrap Assignments - Create a Simple Bootstrap layout as shown in the image u
 
 ---
 
+## Flask Assignments
+
+### Flask Assignments-1
+
+Replicate the Website shown in link https://weimergeeks.com/flaskbasic/ in localhost of your system using Flask
+Make sure you use render_templates, url_for libraries for your flask app.
+
+
 
 
 
